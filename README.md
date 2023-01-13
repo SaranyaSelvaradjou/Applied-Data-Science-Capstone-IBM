@@ -1,5 +1,5 @@
 ![Profile views](https://gpvc.arturio.dev/SaraSS1)
-# Applied Data Science Capstone
+# [Applied Data Science Capstone](https://github.com/SaraSS1/Applied-Data-Science-Capstone/blob/main/Applied%20CapstonePdf.pdf)
 ![1](https://user-images.githubusercontent.com/107552730/212277129-b508eafa-a675-49ed-93db-3099347a1795.png)
 
 # Summary 
